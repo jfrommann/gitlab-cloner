@@ -102,7 +102,7 @@ public class GitlabCloner {
 
     public static void main(String[] args) {
         if (args == null || args.length < 2) {
-            System.out.println("Usage: gitlab-cloner <gitlab_url> <api_token> (OPTIONAL: <base_path>)");
+            System.out.println("Usage: gitlab-cloner <URL> <TOKEN> (OPTIONAL: <PATH>)");
             System.exit(1);
         }
 
