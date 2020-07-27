@@ -1,6 +1,6 @@
 # gitlab-cloner
 
-Java tool to clone multiple GitLab repositories at once
+Java tool to clone multiple GitLab projects at once
 
 **Currently work in progress**
 
