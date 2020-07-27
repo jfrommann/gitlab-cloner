@@ -42,12 +42,6 @@
             <property name="message" value="Not allowed usage of printStackTrace(). Use suitable LOGGER instead."/>
             <property name="ignoreComments" value="true"/>
         </module>
-        <module name="RegexpSinglelineJava">
-            <property name="severity" value="error"/>
-            <property name="format" value="System\.out"/>
-            <property name="message" value="Not allowed usage of System.out. Use suitable LOGGER instead."/>
-            <property name="ignoreComments" value="true"/>
-        </module>
         <module name="NeedBraces">
             <property name="severity" value="error"/>
         </module>
